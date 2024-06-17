@@ -20,3 +20,5 @@ After running the project, you can go to the main page of the site and use the f
 2)Viewing Best-Selling Products: The main page displays the best-selling products.
 
 3)Purchasing Based on Categories: Users can search for and purchase desired products based on different categories (Pencil Cases, Notebooks and Notepads, Pens and Ballpoints, Markers and Pencils).
+# video
+https://drive.google.com/file/d/1Q3xNdPsUhKF9Z6IJRQUsp9uGD4_sXAKV/view?usp=drive_link
